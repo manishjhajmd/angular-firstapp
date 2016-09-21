@@ -1,0 +1,52 @@
+<h1>contact</h1>
+
+
+
+
+<form>
+  <div class="form-group">
+    <label for="Name">First Name:</label>
+    <input type="text" class="form-control" ng-model="contact.firstName"  >
+    <span ng-show=" contact.firstName==''">Enter first name</span>
+  </div>
+  <div class="form-group">
+    <label for="last Name">Last Name:</label>
+    <input type="text" class="form-control" ng-model="contact.lastName" >
+  </div>
+  <div class="form-group">
+    <label for="Phone">Phone:</label>
+    <input type="tel" class="form-control" ng-model="contact.Phone" >
+  </div>
+  <div class="form-group">
+    <label for="City">City:</label>
+    <input type="text" class="form-control" ng-model="contact.City">
+  </div>
+  <div class="form-group">
+    <label for="Comment"  >Comment:</label>
+    <textarea ng-model="contact.Comment" class="form-control"></textarea>
+  </div>
+
+
+ <div class="form-group">
+    <label for="Comment"  >Comment:</label>
+     <select ng-model="contact.Comment" class="form-control" ng-init="list=[]; option=[1,2,3,4]; contact.Comment='2'" ng-change="list.push(contact.Comment)">
+     <option value="">select</option>
+     <option value="{{opt}}" ng-repeat="opt in option track by $index">{{opt}}</option>
+     </select>
+  </div>
+  <ul>
+   <li ng-repeat="opt in list track by $index">{{opt}}</li>
+  </ul>
+  
+  
+  
+  
+  
+  
+  
+  
+  <input type="checkbox" ng-model="agree"> I agree <div ng-show="agree"> thx for click</div>
+  
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>
+{{contact}}

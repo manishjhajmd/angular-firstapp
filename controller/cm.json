@@ -1,0 +1,106 @@
+{
+	"total_count": 126,
+	"prev": false,
+	"result": [{
+		"created_on": "09-08-2016 15:56:48",
+		"client_type": 3,
+		"name": "deskyy",
+		"zone_id": 45,
+		"modified_on": "09-08-2016 15:56:48",
+		"zone_name": "category",
+		"is_active": true,
+		"campaign_id": 132,
+		"region_id": 3
+	}, {
+		"created_on": "09-08-2016 15:53:27",
+		"client_type": 0,
+		"name": "deskky",
+		"zone_id": 652,
+		"modified_on": "09-08-2016 15:53:27",
+		"zone_name": "category",
+		"is_active": true,
+		"campaign_id": 131,
+		"region_id": 1
+	}, {
+		"created_on": "15-07-2016 13:04:28",
+		"client_type": 0,
+		"name": "campaign_new1208",
+		"zone_id": 671,
+		"modified_on": "09-08-2016 13:37:32",
+		"zone_name": "category",
+		"is_active": true,
+		"campaign_id": 122,
+		"region_id": 1
+	}, {
+		"created_on": "09-08-2016 11:56:32",
+		"client_type": 3,
+		"name": "Mobile-desktop",
+		"zone_id": 652,
+		"modified_on": "09-08-2016 13:35:55",
+		"zone_name": "category",
+		"is_active": true,
+		"campaign_id": 130,
+		"region_id": 1
+	}, {
+		"created_on": "06-08-2016 12:24:21",
+		"client_type": 0,
+		"name": "new_camp1",
+		"zone_id": 0,
+		"modified_on": "06-08-2016 12:24:21",
+		"zone_name": "home",
+		"is_active": true,
+		"campaign_id": 129,
+		"region_id": 1
+	}, {
+		"created_on": "04-08-2016 14:25:04",
+		"client_type": 0,
+		"name": "name_2",
+		"zone_id": 0,
+		"modified_on": "04-08-2016 14:25:04",
+		"zone_name": "home",
+		"is_active": true,
+		"campaign_id": 128,
+		"region_id": 3
+	}, {
+		"created_on": "15-07-2016 20:19:26",
+		"client_type": 3,
+		"name": "Noida Home_Banner",
+		"zone_id": 0,
+		"modified_on": "15-07-2016 20:19:26",
+		"zone_name": "home",
+		"is_active": true,
+		"campaign_id": 127,
+		"region_id": 3
+	}, {
+		"created_on": "15-07-2016 13:08:51",
+		"client_type": 0,
+		"name": "campaign_new1212",
+		"zone_id": 211,
+		"modified_on": "15-07-2016 13:08:51",
+		"zone_name": "leaf",
+		"is_active": true,
+		"campaign_id": 126,
+		"region_id": 16
+	}, {
+		"created_on": "15-07-2016 13:07:05",
+		"client_type": 0,
+		"name": "campaign_new1211",
+		"zone_id": 52,
+		"modified_on": "15-07-2016 13:07:05",
+		"zone_name": "category",
+		"is_active": true,
+		"campaign_id": 125,
+		"region_id": 14
+	}, {
+		"created_on": "15-07-2016 13:06:06",
+		"client_type": 0,
+		"name": "campaign_new1210",
+		"zone_id": 0,
+		"modified_on": "15-07-2016 13:06:06",
+		"zone_name": "home",
+		"is_active": true,
+		"campaign_id": 124,
+		"region_id": 5
+	}],
+	"next": true
+}
